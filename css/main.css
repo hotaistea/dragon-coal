@@ -1,0 +1,86 @@
+.logo a {
+    text-decoration: none;
+    font-size: 38px;
+    font-weight: 500;
+    font-family: Montserrat;
+    color: #c3b97f;
+    padding: 10px 0;
+}
+.sm-links img {
+    width: 30px;
+    margin-left: 10px;
+}
+header {
+    background: black;
+}
+.header__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main {
+    background: black;
+    color: #fff;
+    font-family: Montserrat;
+    padding: 100px 0;
+    text-align: center;
+}
+.main h1 {
+    margin-bottom: 40px;
+}
+.main p {
+    font-size: 18px;
+}
+.product {
+    background: black;
+    color: #fff;
+    padding-bottom: 50px;
+    margin-bottom: 0;
+}
+.product__card {
+    align-items: center;
+    text-align: center;
+    font-family: Montserrat;
+}
+.product__card img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+.product__card p {
+    margin-bottom: 0;
+    font-size: 18px;
+}
+.product__card button {
+    width: 150px;
+    height: 45px;
+    border-radius: 25px;
+    margin-top: 10px;
+    font-family: Montserrat;
+    background: #c9bd7c;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+}
+.contact {
+    background: black;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.contact__content {
+    text-align: center;
+    font-family: Montserrat;
+}
+
+.contact__content h2 {
+    font-size: 44px;
+}
+.contact__content a {
+    color: #fff;
+    line-height: 50px;
+    font-size: 18px;
+}
+
+.sm-link a {
+    padding: 0 5px;
+}
